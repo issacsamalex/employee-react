@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #00a4b3;
+}
+#heading{
+    color: white;
+    margin-left: 50px;
+}
+#btn{
+    background-color: none;
+    color: white;
+    margin-right: 20px;
+}
+#btnlink{
+    color: white;
+    text-decoration: none;
+}
+#primarybtn{
+    background-color: #00695c;
+    margin-right: 50px;
+}
+#primarybtnlink{
+    color: white;
+    text-decoration: none;
+}

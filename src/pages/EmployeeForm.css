@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+.outer{
+    margin: 10%;
+    text-align: center;
+    background-color: rgb(193, 222, 237);
+    padding: 20px 50px;
+    border: 2px solid #00695c;
+    border-radius: 16px;
+    -webkit-box-shadow: -1px 2px 48px -12px rgba(0, 0, 0, 0.503);
+  -moz-box-shadow: -1px 2px 48px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 2px 48px -12px rgba(0, 0, 0, 0.503);
+}
+.header{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #00463e;
+}
+.header1{
+    padding-bottom: 10px;
+}
+#ctaprimary{
+    background-color: #00695c;
+}
+
